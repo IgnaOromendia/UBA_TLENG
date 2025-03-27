@@ -13,3 +13,4 @@ Lic. en Ciencias de la Computación - FCEN - UBA\
 - [Ejercicio 7](./p1/e7.md)
 - [Ejercicio 8](./p1/e8.md)
 - [Ejercicio 9](./p1/e9.md)
+- [Ejercicio 10](./p1/e10.md)
