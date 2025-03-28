@@ -37,3 +37,9 @@ $L^n = \Lambda$ si n = 0
 $L^* = \bigcup_{n\geq0} L^n$
 
 $L^+ = \bigcup_{n\geq1} L^n$
+
+$\text{Ini}(L) = \{\alpha\in\Sigma^*:\exists\beta\in\Sigma^*\text{ tal que } \alpha\beta\in L \} $
+
+$\text{Fin}(L) = \{\alpha\in\Sigma^*:\exists\beta\in\Sigma^*\text{ tal que } \beta\alpha\in L \} $
+
+$\text{Sub}(L) = \{\alpha\in\Sigma^*:\exists\beta,\gamma\in\Sigma^*\text{ tal que } \beta\alpha\gamma\in L \} $
