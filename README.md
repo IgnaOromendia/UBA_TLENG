@@ -18,3 +18,4 @@ Lic. en Ciencias de la Computación - FCEN - UBA\
 #### Practica 2
 - [Ejercicio 1](./p2/e1.png)
 - [Ejercicio 2](./p2/e2.png)
+- [Ejercicio 3](./p2/e3.png)
