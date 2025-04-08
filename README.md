@@ -20,3 +20,4 @@ Lic. en Ciencias de la Computación - FCEN - UBA\
 - [Ejercicio 2](./p2/e2.png)
 - [Ejercicio 3](./p2/e3.png)
 - [Ejercicio 4](./p2/e4.md)
+- [Ejercicio 5](./p2/e5.md)
