@@ -29,4 +29,4 @@ Lic. en Ciencias de la Computación - FCEN - UBA\
 - [Ejercicio 1b](./p3/e1b.png)
 - [Ejercicio 1c](./p3/e1c.png)
 - Ejercicio 2 (Ya son todos deterministicos)
-- [Ejercicio 3](./p3/)
+- [Ejercicio 3](./p3/e3.png)
