@@ -2,6 +2,8 @@
 Lic. en Ciencias de la Computación - FCEN - UBA\
 1er cuatrimestre 2025
 
+Puede contener errores
+
 ### Practicas
 #### Práctica 1
 - [Ejercicio 1](./p1/e1.md)
@@ -30,3 +32,7 @@ Lic. en Ciencias de la Computación - FCEN - UBA\
 - [Ejercicio 1c](./p3/e1c.png)
 - Ejercicio 2 (Ya son todos deterministicos)
 - [Ejercicio 3](./p3/e3.png)
+
+### Práctica 4
+- Ejercicio 1
+    - [a](./p4/e1a.md) - [b](./p4/e1b.md) - [c](./p4/e1c.md) - [d](./p4/e1d.png) - [e](./p4/e1e.md) - [f](./p4/e1f.md) - [f](./p4/e1f.md) - [g](./p4/e1g.md) - [h](./p4/e1h.md)
