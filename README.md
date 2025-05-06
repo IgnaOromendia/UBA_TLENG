@@ -37,3 +37,7 @@ Puede contener errores
 - Ejercicio 1
     - [a](./p4/e1a.md) - [b](./p4/e1b.md) - [c](./p4/e1c.md) - [d](./p4/e1d.png) - [e](./p4/e1e.md) - [f](./p4/e1f.md) - [f](./p4/e1f.md) - [g](./p4/e1g.md) - [h](./p4/e1h.md)
 - [Ejercicio 2](./p4/e2.md)
+
+### Práctica 5
+- [Ejercicio 1](./p5/e1.md)
+- [Ejercicio 2](./p5/e2.md)
