@@ -41,3 +41,4 @@ Puede contener errores
 ### Práctica 5
 - [Ejercicio 1](./p5/e1.md)
 - [Ejercicio 2](./p5/e2.md)
+- Ejercicio 3 [a](./p5/e3a.md) [b](./p5/e3b.md)
