@@ -46,6 +46,6 @@ Puede contener errores
 - [Ejercicio 3a](./p5/e3a.md) CORREGIR AUTOMATA
 - [Ejercicio 3b](./p5/e3b.md) 
 - [Ejercicio 4](./p5/e4.md)
-- [Ejercicio 5](./p5/e5.md)
 - [Ejercicio 6](./p5/e6.md)
 - [Ejercicio 7](./p5/e7.md)
+- [Ejercicio 9](./p5/e9.md)
