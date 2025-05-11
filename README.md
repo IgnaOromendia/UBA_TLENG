@@ -49,3 +49,10 @@ Puede contener errores
 - [Ejercicio 6](./p5/e6.md)
 - [Ejercicio 7](./p5/e7.md)
 - [Ejercicio 9](./p5/e9.md)
+
+### Práctica 6 - Automata de Pila y Pumping para lenguajes libres de contexto
+
+- Ejercicio 1
+    - [a - h](./p6/e1a_h.png)
+    - [Ejercicio 2](./p6/e2.md)
+    - [Ejercicio 3](.p6/e3.md)
