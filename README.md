@@ -52,8 +52,7 @@ Puede contener errores
 
 ### Práctica 6 - Automata de Pila y Pumping para lenguajes libres de contexto
 
-- Ejercicio 1
-    - [a - h](./p6/e1a_h.png)
-    - [Ejercicio 2](./p6/e2.md)
-    - [Ejercicio 3](./p6/e3.md)
-    - [Ejercicio 4](./p6/e4.md)
+- Ejercicio 1 [a - h](./p6/e1a_h.png)
+- [Ejercicio 2](./p6/e2.md)
+- [Ejercicio 3](./p6/e3.md)
+- [Ejercicio 4](./p6/e4.md)
