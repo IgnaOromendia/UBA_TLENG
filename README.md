@@ -56,3 +56,7 @@ Puede contener errores
 - [Ejercicio 2](./p6/e2.md)
 - [Ejercicio 3](./p6/e3.md)
 - [Ejercicio 4](./p6/e4.md)
+- [Ejercicio 6](./p6/e6.md)
+- [Ejercicio 7](./p6/e7.md)
+- [Ejercicio 8](./p6/e8.md)
+- [Ejercicio 9](./p6/e9.md)
