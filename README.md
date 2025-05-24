@@ -64,3 +64,4 @@ Puede contener errores
 ### Práctica 7 - Funciones Parcialmente Computables
 - [Ejercicio 1](./p7/e01.md)
 - [Ejercicio 2](./p7/e02.md)
+- [Ejercicio 3](./p7/e03.md)
