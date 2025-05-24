@@ -65,3 +65,4 @@ Puede contener errores
 - [Ejercicio 1](./p7/e01.md)
 - [Ejercicio 2](./p7/e02.md)
 - [Ejercicio 3](./p7/e03.md)
+- [Ejercicio 4](./p7/e04.md)
