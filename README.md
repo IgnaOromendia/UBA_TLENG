@@ -60,3 +60,6 @@ Puede contener errores
 - [Ejercicio 7](./p6/e7.md)
 - [Ejercicio 8](./p6/e8.md)
 - [Ejercicio 9](./p6/e9.md)
+
+### Práctica 7 - Funciones Parcialmente Computables
+- [Ejercicio 1](./p7/e01.md)
