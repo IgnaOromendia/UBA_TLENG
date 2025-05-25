@@ -67,3 +67,4 @@ Puede contener errores
 - [Ejercicio 3](./p7/e03.md)
 - [Ejercicio 4](./p7/e04.md)
 - [Ejercicio 5](./p7/e05.md)
+- [Ejercicio 6](./p7/e06.md)
