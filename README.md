@@ -69,3 +69,7 @@ Puede contener errores
 - [Ejercicio 5](./p7/e05.md)
 - [Ejercicio 6](./p7/e06.md)
 - [Ejercicio 7](./p7/e07.md)
+
+### Práctica 8 - Funciones no computables y diagonalización
+- [Ejercicio 1](./p8/e01.md)
+- [Ejercicio 2](./p8/e02.md)
