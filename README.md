@@ -73,3 +73,8 @@ Puede contener errores
 ### Práctica 8 - Funciones no computables y diagonalización
 - [Ejercicio 1](./p8/e01.md)
 - [Ejercicio 2](./p8/e02.md)
+- [Ejercicio 3](./p8/e03.md)
+- [Ejercicio 4](./p8/e04.md)
+- [Ejercicio 5](p8/e05.md)
+- [Ejercicio 6](p8/e06.md)
+- [Ejercicio 7](p8/e07.md)
