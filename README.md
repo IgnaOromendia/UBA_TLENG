@@ -78,3 +78,7 @@ Puede contener errores
 - [Ejercicio 5](p8/e05.md)
 - [Ejercicio 6](p8/e06.md)
 - [Ejercicio 7](p8/e07.md)
+- [Ejercicio 8](p8/e08.md)
+- [Ejercicio 9](p8/e09.md)
+- [Ejercicio 10](p8/e10.md)
+- [Ejercicio 11](p8/e11.md)
