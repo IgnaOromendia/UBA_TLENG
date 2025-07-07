@@ -4,7 +4,7 @@ $L = \{w \in \{a,b\}^* \text{ tal que } w = w^r \}$
 
 1. Dado $p \geq 0$
 
-2. Elegimos una cadena $\alpha = a^pba^p $ para que $\alpha \in L$ y $|\alpha| \geq p$
+2. Elegimos una cadena $\alpha = a^pba^p$ para que $\alpha \in L$ y $|\alpha| \geq p$
 
 3. Me dan una descomposición $\alpha = xyz$ con $|xy| \leq p$ y $|y| \geq 1$.\
 Podemos asegurar que\
