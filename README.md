@@ -37,7 +37,7 @@ Puede contener errores
 
 ### Práctica 4 - Lema de pumping para lenguajes regulares
 - Ejercicio 1
-    - [a](./p4/e1a.md) - [b](./p4/e1b.md) - [c](./p4/e1c.md) - [d](./p4/e1d.png) - [e](./p4/e1e.md) - [f](./p4/e1f.md) - [f](./p4/e1f.md) - [g](./p4/e1g.md) - [h](./p4/e1h.md)
+    - [a](./p4/e1a.md) - [b](./p4/e1b.md) - [c](./p4/e1c.md) - [d](./p4/e1d.png) - [e](./p4/e1e.md) - [f](./p4/e1f.md) - [g](./p4/e1g.md) - [h](./p4/e1h.md) - [i](/p4/e1i.md) - [j](p4/e1j.md) - [k](p4/e1k.md) - [l](p4/e1l.md) - [m](p4/e1m.md) - [n](p4/e1n.md) - [ñ](p4/e1n2.md)
 - [Ejercicio 2](./p4/e2.md)
 
 ### Práctica 5 - Expresiones Regulares
@@ -78,7 +78,7 @@ Puede contener errores
 - [Ejercicio 5](p8/e05.md)
 - [Ejercicio 6](p8/e06.md)
 - [Ejercicio 7](p8/e07.md)
-- [Ejercicio 8](p8/e08.md)
 - [Ejercicio 9](p8/e09.md)
 - [Ejercicio 10](p8/e10.md)
 - [Ejercicio 11](p8/e11.md)
+- [Ejercicio 12](p8/e12.md)
